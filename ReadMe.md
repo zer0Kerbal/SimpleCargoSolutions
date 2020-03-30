@@ -11,11 +11,11 @@ updated: 13 Oct 19 -->
 ###### *oringinally by artwhaley, now continued by zer0Kerbal*
 ---
 v1.0.0.0 for KSP v1.7.x
-
+![LGPLv3](https://i.postimg.cc/DzxM7BJp/lgplv3-44x15.png)
 ![SimpleCargoSolutions version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
-![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
+![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/License-LGPLv3-lightgreen)
 
 ## Simple Cargo Solutions (SCS)
 ### Adds nine (9) stockalike parts to Kerbal Space Program
@@ -24,6 +24,10 @@ v1.0.0.0 for KSP v1.7.x
 `There are great cargo bays in several other big mod packs, but a request came up for just a couple of simple cargo bays.... and here they are!  (artwhaley) even stopped (myself) from scope creeping this until there were two dozen different parts!
 
 Bays come in 1.25m and 2.5m diameters.  They've got enough heat tolerance to survive a well planned reentry.  Included is a slim/low-profile version of the Junior docking port designed to fit on the mid-bay-wall node of the bays without hanging through the hull.
+
+> A request came up for a couple of simple cargo bays that came by themselves... and while there are great cargo bays in a lot of mod packs, I didn't see one that was exactly what the request was asking for, so I hacked them together! I even managed to avoid scope creeping until I myself had released a pack with 2 dozen bays and fairings and adapters and....
+
+> So here it is - a 1.25m cargo bay, a 2.5m cargo bay and a low-profile junior sized docking port that can go on the mid-bay attachment nodes without hanging through the hull. The 2.5m has integrated ladders inside the bay for getting around. I may someday make a couple of additional support parts - I'd like a 1.25m cargo rack that goes inside the smaller bay to make it easier to load up with science stuff... and a node mounted radial detachment separator for kicking payloads out of the bays... but... those parts are pretty low priority! 
 
 The 2.5m (and larger) has integrated ladders inside the bay for getting around. `
 

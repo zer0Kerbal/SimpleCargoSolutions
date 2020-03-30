@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6" />
+        <subView activeIndex="2">
+            <File firstVisibleLine="19" xOffset="0" scrollWidth="2468" startPos="1238" endPos="1116" selMode="0" offset="0" wrapCount="0" lang="zedK" encoding="-1" userReadOnly="yes" filename="C:\Games\NodeTest\GameData\Squad\Parts\Utility\mk2CargoBay\BayS.cfg" backupFilePath="" originalFileLastModifTimestamp="501604352" originalFileLastModifTimestampHigh="30742313" mapFirstVisibleDisplayLine="50" mapFirstVisibleDocLine="38" mapLastVisibleDocLine="71" mapNbLine="33" mapHigherPos="1729" mapWidth="183" mapHeight="198" mapKByteInDoc="2" mapWrapIndentMode="1" mapIsWrap="yes" />
+            <File firstVisibleLine="38" xOffset="0" scrollWidth="2468" startPos="2126" endPos="1833" selMode="0" offset="0" wrapCount="0" lang="zedK" encoding="-1" userReadOnly="no" filename="C:\Games\NodeTest\GameData\Squad\Parts\Utility\mk2DockingPort\mk2DockingPort.cfg" backupFilePath="" originalFileLastModifTimestamp="501604352" originalFileLastModifTimestampHigh="30742313" mapFirstVisibleDisplayLine="34" mapFirstVisibleDocLine="30" mapLastVisibleDocLine="56" mapNbLine="33" mapHigherPos="990" mapWidth="183" mapHeight="198" mapKByteInDoc="2" mapWrapIndentMode="1" mapIsWrap="yes" />
+        </subView>
+    </Session>
+</NotepadPlus>
