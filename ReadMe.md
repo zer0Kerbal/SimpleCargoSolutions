@@ -15,7 +15,7 @@ v1.0.0.0 for KSP v1.7.x
 ![SimpleCargoSolutions version](https://img.shields.io/badge/MOD%20version-1.0.0.0-orange.svg?style=flat-square)
 ![KSP version](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
-![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/License-LGPLv3-lightgreen)
+![License LGPLv3](https://img.shields.io/badge/License-LGPLv3-lightgreen)
 
 ## Simple Cargo Solutions (SCS)
 ### Adds nine (9) stockalike parts to Kerbal Space Program
