@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "License",
-  "labelColor": "black",
-  "message": "LGPLv3",
-  "color": "green",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "License",
+ "labelColor": "black",
+ "message": "LGPLv3",
+ "color": "red",
+ "style": "plastic"
 }
