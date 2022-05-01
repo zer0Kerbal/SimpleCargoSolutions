@@ -3,9 +3,6 @@ SimpleCargoSolutions (SCS)
 created: 17 Aug 18
 updated: 13 Oct 19 -->
 
-<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
-
-# KerbGuise Experimental engineering (KGEx)
 #### Brings you:
 ## Axial Aerospaces's *Simple Cargo Solutions*
 ###### *oringinally by artwhaley, now continued by zer0Kerbal*
