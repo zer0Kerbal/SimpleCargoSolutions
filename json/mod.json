@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "Simple Cargo Solutions",
-  "labelColor": "darkgreen",
-  "message": "1.1.0.0",
-  "color": "orange",
-  "style": "plastic"  
+ "schemaVersion": 1,
+ "label": "SimpleCargoSolutions",
+ "labelColor": "darkgreen",
+ "message": "1.1.99.0",
+ "color": "orange",
+ "style": "plastic"
 }
