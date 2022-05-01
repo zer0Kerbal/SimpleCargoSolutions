@@ -17,7 +17,7 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-<BLURB>
+A request came up for just a couple of simple cargo bays.... and here they are!
 
 ## Installation Instructions
 
