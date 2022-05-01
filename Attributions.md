@@ -8,14 +8,14 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.5.0
-MOD-NAME (ABBV)
+Simple Cargo Solutions (SCS)
 created: 01 Feb 2022
 updated: 27 Mar 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# MOD-NAME (ABBV)
+# Simple Cargo Solutions (SCS)
 [Home](./index.md)
 
 ## Attribution
