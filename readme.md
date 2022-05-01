@@ -21,9 +21,8 @@ A request came up for just a couple of simple cargo bays.... and here they are!
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/img/HeroLogo_1920x1920.png" alt="Marketing Hereo" width="50%" height="50%">
 
-https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github
 
 ### Preamble by [artwhaley][artwhaley]
 
@@ -240,7 +239,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
+
 [SCS]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*/ "Simple Cargo Solutions (SCS)"
+[DREAM]: https://github.com/zer0Kerbal/Dreamer "Dreamer (DREAM)"
+[LTEK]: https://github.com/zer0Kerbal/LanderTek "LanderTek (LTK)"
+[WHIM]: https://github.com/zer0Kerbal/WhimChaser "WhimChaser (WHIM)"
 
 [DMAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-*/ "DaMichel's AeroRadial"
 [DMCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's Cargo Bays (DMCB)"
