@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "label": "SimpleCargoSolutions",
- "labelColor": "darkgreen",
+ "labelColor": "BADA55",
  "message": "1.1.99.0",
- "color": "orange",
+ "color": "darkgreen",
  "style": "plastic"
 }
