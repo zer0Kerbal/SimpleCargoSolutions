@@ -13,7 +13,7 @@ updated: 04 Oct 2022 -->
 
 # Simple Cargo Solutions (CARGO)
 
-A request came up for just a couple of simple cargo bays.... and here they are!
+A request came up for just a couple of simple stockalike cargo bays.... and here they are!
 
 
 
