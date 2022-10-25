@@ -191,12 +191,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:parts]: https://zer0kerbal.github.io/SimpleCargoSolutions/PartsCatalog "Parts Catalog"
 [MOD:pages]: https://zer0kerbal.github.io/SimpleCargoSolutions "GitHub Pages"
 
-<!--- mod -->
+<!-- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/mod.json
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
-<!--- mod provenance -->
+<!-- mod provenance -->
 [MOD:1:dnload]: https://www.curseforge.com/kerbal/ksp-mods/simplecargosolutions "CurseForge"
 [MOD:1:source]: https://www.curseforge.com/kerbal/ksp-mods/simplecargosolutions "CurseForge"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*/ "KSP Forum"
@@ -205,7 +205,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/simplecargosolutions "CurseForge"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*/ "KSP Forum"
 
-<!--- license provenance -->
+<!-- license provenance -->
 [LIC:1:url]: http://www.wtfpl.net/about/ "WTFPL"
 [LIC:1:log]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png "WTFPL"
 [LIC:1:shd]: https://img.shields.io/badge/License-WTFPL-white?style=plastic&labelColor=purple "WTFPL"
@@ -218,12 +218,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/license.json "GPL-2.0"
 
-<!--- CKAN -->
+<!-- CKAN -->
 [ckan:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [ckan:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
 [ckan:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/ckan.json "CKAN"
 
-<!--- release links -->
+<!-- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
