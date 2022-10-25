@@ -27,7 +27,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 #### New From Axial Aerospace...  A couple of parts to solve a hole in the stock lineup
 
-> There are great cargo bays in several other big mod packs, but a request came up for just a couple of simple cargo bays.... and here they are!  (artwhaley) even stopped (myself) from scope creeping this until there were two dozen different parts!
+> There are great cargo bays in several other big mod packs, but a request came up for just a couple of simple cargo bays.... and here they are! (artwhaley) even stopped (myself) from scope creeping this until there were two dozen different parts!
 >
 > Bays come in 1.25m and 2.5m diameters.  They've got enough heat tolerance to survive a well planned reentry.  Included is a slim/low-profile version of the Junior docking port designed to fit on the mid-bay-wall node of the bays without hanging through the hull.
 >
@@ -41,19 +41,18 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Parts
 
-* Adds ten (10) stockalike parts to Kerbal Space Program
+* Adds eight (9) stockalike parts to Kerbal Space Program
   * Cargo Bays
-    * 0.625m Cargo Bay
-    * 1.25m Cargo Bay
-    * 2.5m Cargo Bay
-    * 1.875m Cargo Bay
-    * 2.5m Cargo Bay
-    * 3.75m Cargo Bay
-    * 5.0m Cargo Bay
-    * 5.0m Cargo Bay (tall)
+    * 0.625m
+    * 1.25m
+    * 1.875m
+    * 2.5m
+    * 3.75m
+    * 5.0m
+    * 5.0m (tall)
   * Low-Profile Docking Ports
-    * Cargo Bay 'low-profile(LP)' docking port size0 (Junior)
-    * Cargo Bay 'low-profile(LP)' docking port size1
+    * *Low Profile (LP)* docking port size0 (Junior)
+    * *Low Profile (LP)* docking port size1
 
 ---
 
