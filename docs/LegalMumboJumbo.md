@@ -30,6 +30,8 @@ updated: 15 May 2022
 ### License
 
 [License](./LegalMumboJumbo/License.md)
+[Previous License](./LegalMumboJumbo/wtfpl.txt)
+[Original License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
 ### Forum I
