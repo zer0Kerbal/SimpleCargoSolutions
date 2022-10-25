@@ -7,12 +7,12 @@ tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Why.md v1.1.0.0
-Simple Cargo Solutions (SCS)
+Simple Cargo Solutions (CARGO)
 created: 01 Apr 2019
 updated: 
 -->
 
-# Simple Cargo Solutions (SCS)
+# Simple Cargo Solutions (CARGO)
 
 [Home](/index.md)
 
