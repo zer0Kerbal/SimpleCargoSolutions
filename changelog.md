@@ -1,11 +1,24 @@
+# Changelog  
+  
+| modName    | Simple Cargo Solutions (CARGO)                                    |
+| ---------- | ----------------------------------------------------------------- |
+| license    | GPL-2.0                                                           |
+| author     | artwhaley and zer0Kerbal                                          |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/) |
+| github     | (https://github.com/zer0Kerbal/SimpleCargoSolutions)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions) |
+| spacedock  | (https://spacedock.info/mod/3139)                                 |
+| ckan       | SimpleCargoSolutions                                              |
 
-## Version 1.1.99.0-adoption `<Brushing off the Construction Dust>` edition
+## Version 1.1.99.0-adoption `<Thank you artwhaley>` edition
 
-* 2021-09-19
-* Released for Kerbal Space Program 1.12.2
-* `>>-- adopted by @zer0Kerbal --<<`
+* Released:
+  * on: 24 Oct 2022
+  * by: zer0Kerbal
+  * for: Kerbal Space Program 1.12.3
 
 <b><color=#BADA55>DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</color></b>
+
 <b>Resources and corresponding tanks have changed density/volume/cost/mass </b>
 
 ### Adoption by zer0Kerbal
@@ -63,5 +76,28 @@
   * explosionPotential
   * merged in patches
   * adjusted nodes (flipped orientation as needed)
+
+### Status 1.1.99.0
+
+* Issues
+  * #9 - [ImgBot] Optimize images - contributed by imgbot[bot]
+
+---
+
+## Version 1.1.0.0-archival `<Archival>` edition
+
+* 28 Dec 2015
+* released
+  * by artwhaley
+  * for Kerbal Space Program 1.0.5
+
+---
+
+## Version 1.0.5.0-archival `<Archival>` edition
+
+* 24 Nov 2015
+* released
+  * by artwhaley
+  * for Kerbal Space Program 1.0.5
 
 ---
