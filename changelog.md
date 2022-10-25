@@ -42,6 +42,9 @@
   * .this/Localization/
   * added localization (en-us.cfg)
   * adjusted phrasing a smudge
+* updates #10 - Localization - Master
+* closes #11 - Localization - English <en-us.cfg>
+* closes #36 - Create Localization directory and contents
 
 ### Assets 1.1.99.0
 
@@ -49,6 +52,7 @@
 * updated texture pointers in model (original, png, dds included)
   * large .tga -> .dds ( mb ->	mb)
   * replaced mesh = with MODEL{}
+* closes #37 - Part Asset Updates
 
 ### Added
 
@@ -77,9 +81,28 @@
   * merged in patches
   * adjusted nodes (flipped orientation as needed)
 
+  * closes #39 - Update License
+  * closes #38 - Create <SimpleCargoSolutions.cfg>
+  * closes #35 - Archival Releases
+  * closes #34 - Create HeroLogo.png
+  * closes #33 - Create GitHub Pages
+  * closes #27 - Update AA Simple Cargo Solutions
+  * closes #8 - Needs a wiki
+  * closes #7 - Cargo
+  * closes #6 - Repo
+  * closes #5 - Adoption
+  * closes #4 - LegalMumboJumbo
+  * closes #3 - Localization
+  * closes #2 - Social
+
+
 ### Status 1.1.99.0
 
 * Issues
+  * closes #29 - Simple Cargo Solutions (CARGO) 1.1.99.0-adoption <Thank you artwhaley> edition
+  * closes #30 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #31 - 1.1.99.0 Create Documentation
+  * closes #32 - 1.1.99.0 Create Social Media Presence
   * #9 - [ImgBot] Optimize images - contributed by imgbot[bot]
 
 ---
