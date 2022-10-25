@@ -23,56 +23,92 @@
 
 ### Adoption by zer0Kerbal
 
-* Send Adoption Papers
-* Post Adoption Notice
-* gather
-* verify licenses
-* look for existing repo/postings
-* organize for adoption
-* folder structure
-* added license(s) file(s)
-* added .version file
-* Readme
-* automated backend
-* jsons
-
 ### Localization 1.1.99.0
 
-* added
+* Added
   * .this/Localization/
   * added localization (en-us.cfg)
   * adjusted phrasing a smudge
+* Create
+  * Localization directory and contents
+    * Localization/
+      * <en-us.cfg>
+      * [readme.md] v2.1.2.0
+      * [quickstart.md] v1.0.1.1
+* Add localized tags to parts
+* Create <SimpleCargoSolutions.cfg> v1.0.0.0
 * updates #10 - Localization - Master
 * closes #11 - Localization - English <en-us.cfg>
 * closes #36 - Create Localization directory and contents
+* closes #38 - Create <SimpleCargoSolutions.cfg>
 
-### Assets 1.1.99.0
+### Part Asset Updates 1.1.99.0
 
-* moved art into .this/Assets/
-* updated texture pointers in model (original, png, dds included)
-  * large .tga -> .dds ( mb ->	mb)
-  * replaced mesh = with MODEL{}
+* create Assets/ folder
+* convert from mesh to MODEL {}
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
 * closes #37 - Part Asset Updates
 
-### Added
+### Documentation 1.1.99.0
 
-* Changelog, .version, Readme.md
-* Changelog.cfg [KERBALCHANGELOG] (.this)
-  * moved changelog into separate file
-  * Changelog.md -> Kerbal Changelog Changelog.cfg
-  * Add license field
-  * Add author node
-  * Add version naming field
-  * added additional fields in .version (might need to tweak urls)
-* updated Readme.md
-  * shields
+* Create GitHub Pages
+  * docs/
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [PartsCatalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+* Create Documentation
+  * readme
+  * deploy to:
+    * CurseForge Description page 🤬
+    * Forum Original Post 🐰
+    * SpaceDock Information page 🌮
+  * release notes
+  * [changelog.md]
+  * update /docs/
+* Create
+  * HeroLogo.png
+  * copy/convert to HeroLogo.jpg
+* closes #34 - Create HeroLogo.png
+* closes #33 - Create GitHub Pages
 
-* Online
-  * GitHub Repo
-  * created Forum Thread
-  * updated SpaceDock
-  * updated CKAN/NetKAN
-  * automated deploy/release process
+### Legal Mumbo Jumbo 1.1.99.0
+
+* Create
+  * license check
+  * offline documentation
+  * _Legal
+    * screenshots and pdfs
+    * adoptionLetters
+    * communications concerning
+  * _Links/
+    * link(s) saved
+  * docs/LegalMumboJumbo
+    * [License.md]
+    * FORUM-##.png's
+      * public documentation
+  * GitHub: :octocat:
+    * LICENSE
+    * [license].txt
+  * CurseForge
+  * SpaceDock
+  * CKAN
 
 ### Parts  1.1.99.0
 
@@ -81,11 +117,20 @@
   * merged in patches
   * adjusted nodes (flipped orientation as needed)
 
-  * closes #39 - Update License
-  * closes #38 - Create <SimpleCargoSolutions.cfg>
-  * closes #35 - Archival Releases
-  * closes #34 - Create HeroLogo.png
-  * closes #33 - Create GitHub Pages
+### License 1.1.99.0
+
+* Update
+  * Updated License: GPL-2.0
+    * was: WTFPL
+    * Originally: LGPL-3.0
+* closes #39 - Update License
+
+### Archival Releases
+
+* Releases
+  * 1.1.0.0-archival
+  * 1.0.5.0-archival
+* closes #35 - Archival Releases
 
 
 ### Status 1.1.99.0
