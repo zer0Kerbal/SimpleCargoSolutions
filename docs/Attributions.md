@@ -2,20 +2,21 @@
 permalink: /Attributions.html
 title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.5.0
-Simple Cargo Solutions (SCS)
+Attributions.md v1.0.7.1
+Simple Cargo Solutions (CARGO)
 created: 01 Feb 2022
-updated: 27 Mar 2022
+updated: 03 Jun 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# Simple Cargo Solutions (SCS)
+
+# Simple Cargo Solutions (CARGO)
+
 [Home](./index.md)
 
 ## Attribution
@@ -23,7 +24,7 @@ updated: 27 Mar 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/"><img border="0" alt="artwhaley" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > artwhaley</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*/" alt="Simple Cargo Solutions (SCS)"> Simple Cargo Solutions (SCS)</a> parts addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/"><img border="0" alt="artwhaley" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > artwhaley</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/" alt="Simple Cargo Solutions (CARGO)"> Simple Cargo Solutions (CARGO)</a> parts addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -49,15 +50,14 @@ updated: 27 Mar 2022
 
 ### Translations
 
-* ![Русский][RU] Russian (Русский) - courtesy of [degradka][degradka]
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:125%;" /> English</li>
+  <li><small>Additions and corrections welcome!</small></li>
+</ul>
 
 ### Art Asset(s)
 
-* [Complex Theory icon](https://www.deviantart.com/nzmacaddict/art/Complex-Theory-icon-517716258)
-  * By: [nzmacaddict](https://www.deviantart.com/nzmacaddict)
-  * Creative Commons Attribution 3.0 License
-
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f3bfce-83b1-4e12-8af0-f3d3a31e20a0/d8k8gf6-82083869-14d4-4d33-9719-7908c11c73b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwZjNiZmNlLTgzYjEtNGUxMi04YWYwLWYzZDNhMzFlMjBhMFwvZDhrOGdmNi04MjA4Mzg2OS0xNGQ0LTRkMzMtOTcxOS03OTA4YzExYzczYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wCT9rr9rf8WzMl-LmeJqKMDceRX56DmGixTqESEuQx4" alt="Complex Theory icon" style="zoom:5%;" />
+* Flags
 
 ### Testing and Support
 
@@ -65,11 +65,29 @@ updated: 27 Mar 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
-
-[SCS]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-*/ "Simple Cargo Solutions (SCS)"
-
-[artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/ "artwhaley"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
+<!-- Localization -->
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
