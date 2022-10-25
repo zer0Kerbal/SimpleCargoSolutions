@@ -1,18 +1,20 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/*",
-        "docs/LegalMumboJumbo/*",
         "GameData/AxialAerospace/SimpleCargoSolutions/*",
         "source/*",
         "**/@thumbs/**",
-        "**/Agents/**",
+        "**/Agencies/**",
         "**/Assets/**",
         "**/Flags/**",
         "**/FX/**",
         "**/Icons/**",
         "**/LegalMumboJumbo/**",
+        "**/Parts/**",
         "**/PluginData/**",
+        "**/Props/**",
+        "**/SimpleIcons/**",
+        "**/Spaces/**",
         "**/Textures/**",
         "**/UI/**"
     ],
