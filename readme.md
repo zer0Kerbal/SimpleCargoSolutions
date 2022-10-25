@@ -41,7 +41,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Parts
 
-* Adds eight (9) stockalike parts to Kerbal Space Program
+* Adds nine (9) stockalike parts to Kerbal Space Program
   * Cargo Bays
     * 0.625m
     * 1.25m
@@ -250,9 +250,9 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [DREAM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/ "Dreamer (DREAM)"
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd"
-[DMA]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DM/A)"
+[DMAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DM/A)"
 [DMCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's CargoBays (DM/CB)"
-[DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DM/F)"
+[DMFF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DM/F)"
 [DMST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's SphericalTanks(DM/ST)"
 
 [fs]: https://github.com/snjo/Firespitter/ "Firespitter"
