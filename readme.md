@@ -98,7 +98,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 * [Adjustable Mod Panel (KAMP)][KAMP]
 * [Biomatic (BIO)][BIO]
-* [DaMichel's Parts][DML]
+* by [DaMichel's Ltd][DML]
   * [Cargo Bays (DMCB)][DMCB]
   * [AeroRadial (DMAR)][DMAR]
   * [Flat Fuselage (DMFF)][DMFF]
