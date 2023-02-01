@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Simple Cargo Solutions (CARGO)
@@ -23,6 +22,33 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3139)                                 |
 | ckan       | SimpleCargoSolutions                                              |
 
+## Version 1.1.99.1-prerelease `<Thank you artwhaley>` edition
+
+* Released:
+  * 31 Jan 2023
+  * Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Review and update
+  * lookupradius in moduleCargoBay
+    * thank you to [RB101](https://forum.kerbalspaceprogram.com/index.php?/profile/152006-*/)
+  * all parts are now a little more tough, like a turnip
+* Move
+  * TweakScale into patch
+* Lint all files
+* encode all textures to DXT3
+* new hero logo/cover
+
+### Status 1.1.99.1
+
+* Issues
+  * closes #43 - Simple Cargo Solutions (CARGO) 1.1.99.1-prerelease `<EDITION>` edition
+  * closes #44 - 1.1.99.1 Additional Tasks
+  * closes #45 - [BUG] missing ModuleCargoBay
+  * updates #10 - Localization - Master
+
+---
+
 ## Version 1.1.99.0-adoption `<Thank you artwhaley>` edition
 
 * Released:
@@ -30,11 +56,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * by: zer0Kerbal
   * for: Kerbal Space Program 1.12.3
 
-<b><color=#BADA55>DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</color></b>
-
-<b>Resources and corresponding tanks have changed density/volume/cost/mass </b>
-
-### Adoption by zer0Kerbal
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Localization 1.1.99.0
 
@@ -181,3 +203,4 @@ CC BY-ND 4.0 by zer0Kerbal
   * for Kerbal Space Program 1.0.5
 
 ---
+
