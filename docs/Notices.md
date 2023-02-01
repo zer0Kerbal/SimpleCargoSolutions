@@ -4,7 +4,6 @@ title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 Notices.md v1.0.1.0
 Simple Cargo Solutions (CARGO)
@@ -22,7 +21,6 @@ based upon work by LisiasT -->
 
 ## Trademarks
 
-* "Axial Aerospace" is trademark of artwhaley
 * "Simple Cargo Solutions" is trademark of artwhaley
 * "SCS" is a trademark of zer0Kerbal
 * "CARGO" is a trademark of zer0Kerbal
@@ -43,6 +41,6 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
