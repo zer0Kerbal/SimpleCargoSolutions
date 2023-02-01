@@ -1,17 +1,17 @@
-<!-- readme.md v1.6.9.9
-Simple Cargo Solutions (CARGO) by Axial Aerospace
+<!-- readme.md v1.7.0.1
+Simple Cargo Solutions (CARGO)
 created: 17 Jul 2017
-updated: 04 Oct 2022 -->
+updated: 17 Jan 2023 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![SimpleCargoSolutions][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
-[![Pages][MOD:pages:shd]][MOD:pages]
+[![Simple Cargo Solutions (CARGO)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+[![CKAN][ckan:shd]][ckan:url] [![Pages][PAGES:shd]][pages]
 
 
 
-# Simple Cargo Solutions (CARGO)
+# Simple Cargo Solutions (CARGO) by [Axial Aerospace][AAL]
 
 A request came up for just a couple of simple stockalike cargo bays.... and here they are!
 
@@ -21,118 +21,122 @@ A request came up for just a couple of simple stockalike cargo bays.... and here
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/img/HeroLogo_1920x1920.png" alt="SimpleCargoSolutions Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/img/HeroLogo_1920x1920.png" alt="SimpleCargoSolutions Hero" width="750px" height="750px">
+
+### Parts
+
+* Adds nine (9) stockalike parts to Kerbal Space Program
+  * Cargo Bays
+    * 0.625m, 1.25m, 1.875m, 2.5m, 3.75m, 5.0m, 5.0m (tall)
+  * Low-Profile Docking Ports
+    * *Low Profile (LP)* docking port size0 (Junior)
+    * *Low Profile (LP)* docking port size1
 
 ### Preamble by [artwhaley][artwhaley]
 
-#### New From Axial Aerospace...  A couple of parts to solve a hole in the stock lineup
-
+> New From Axial Aerospace...  A couple of parts to solve a hole in the stock lineup
+>
 > There are great cargo bays in several other big mod packs, but a request came up for just a couple of simple cargo bays.... and here they are! (artwhaley) even stopped (myself) from scope creeping this until there were two dozen different parts!
 >
 > Bays come in 1.25m and 2.5m diameters.  They've got enough heat tolerance to survive a well planned reentry.  Included is a slim/low-profile version of the Junior docking port designed to fit on the mid-bay-wall node of the bays without hanging through the hull.
 >
 > A request came up for a couple of simple cargo bays that came by themselves... and while there are great cargo bays in a lot of mod packs, I didn't see one that was exactly what the request was asking for, so I hacked them together! I even managed to avoid scope creeping until I myself had released a pack with 2 dozen bays and fairings and adapters and....
 >
-> So here it is - a 1.25m cargo bay, a 2.5m cargo bay and a low-profile junior sized docking port that can go on the mid-bay attachment nodes without hanging through the hull. The 2.5m has integrated ladders inside the bay for getting around. I may someday make a couple of additional support parts - I'd like a 1.25m cargo rack that goes inside the smaller bay to make it easier to load up with science stuff... and a node mounted radial detachment separator for kicking payloads out of the bays... but... those parts are pretty low priority! 
+> So here it is - a 1.25m cargo bay, a 2.5m cargo bay and a low-profile junior sized docking port that can go on the mid-bay attachment nodes without hanging through the hull. The 2.5m has integrated ladders inside the bay for getting around. I may someday make a couple of additional support parts - I'd like a 1.25m cargo rack that goes inside the smaller bay to make it easier to load up with science stuff... and a node mounted radial detachment separator for kicking payloads out of the bays... but... those parts are pretty low priority!
 >
 > The 2.5m (and larger) has integrated ladders inside the bay for getting around. `
 
----
-
-### Parts
-
-* Adds nine (9) stockalike parts to Kerbal Space Program
-  * Cargo Bays
-    * 0.625m
-    * 1.25m
-    * 1.875m
-    * 2.5m
-    * 3.75m
-    * 5.0m
-    * 5.0m (tall)
-  * Low-Profile Docking Ports
-    * *Low Profile (LP)* docking port size0 (Junior)
-    * *Low Profile (LP)* docking port size1
-
----
-
 ### See more
 
->* [GitHub Pages][MOD:pages]
->* [Marketing Slicks][MOD:markt]
->* [Parts Catalog][MOD:parts] for part pictures
->* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
->* [ChangeLog][MOD:chlog] for more details of changes
->* [Known Issues][MOD:issue] for more details of feature requests and known issues
+>* [ChangeLog][chlog] for more details of changes
+>* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [GitHub Pages][pages]
+>* [Known Issues][issue] for more details of feature requests and known issues
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
 
 ### Help Wanted
 
 > * Compatibility patches
+> * [Community Tech Tree][ctt] integration and balancing
 > * Contracts for these glorious parts
 > * Variant Textures
+> * Converting from FireSpitter to Stock and/or KSPWheel  
+> * Model updates (add/improve lights, iva, hatches and so forth)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-
----
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
-
----
 
 ### Installation Directions [^1]
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies)  
+Use CurseForge/OverWolf Website/App
 
-  <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="25%" height="25%"></a>
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="80px"></a>
 
-I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload. Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
+or<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"><img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" height="75px"></a>
 
-or [![CKAN][ckan:img]][ckan:url]
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends with checking the checkbox in [SpaceDock][SPCDCK:url]. Beware, [CKAN][ckan:url] *can* really mess up; though it tries very, very, very hard not to.
 
 ### Dependencies
 
+* [AxialAerospace Ltd (AA/L)][AAL]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [Axial Aerospace Ltd (AA/L)][AAL]
+
+
+### Recommends
+
+* by [Axial Aerospace Ltd (AAL)[AAL]
+  * [Dreamer (DREAM)][DREAM]
+  * [LanderTek (LTK)][LTEK]
+  * [Simple Cargo Solutions (CARGO)][CARGO]
 
 ### Suggests
 
-#### Axial Aerospace mods by ['artwhaley'][artwhaley]
-
-* [WhimChaser (WHIM)][WHIM]
-* [Dreamer (DREAM)][DREAM]
-* [Simple Cargo Solutions (CARGO)][CARGO]
-* [LanderTek (LTK)][LTEK]
-
-#### by [zer0Kerbal][zer0Kerbal]
-
-* [DaMichel's Cargo Bays (DMCB)][DMCB]
-* [DaMichel's AeroRadial (DMAR)][DMAR]
-* [DaMichel's Flat Fuselage (DMFF)][DMFF]
-* [DaMichel's Spherical Tanks (DMST)][DMST]
+* [Adjustable Mod Panel (KAMP)][KAMP]
+* [Biomatic (BIO)][BIO]
+* [DaMichel's Parts][DML]
+  * [Cargo Bays (DMCB)][DMCB]
+  * [AeroRadial (DMAR)][DMAR]
+  * [Flat Fuselage (DMFF)][DMFF]
+  * [Spherical Tanks (DMST)][DMST]
+* [Docking Port Descriptions(DPD)][DPD]
+* [Drop Tank Wrapper (DROP)][DROP]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Inflatable PicoPort (IPP)][IPP]
+* [KaboOom! (BOOM)][BOOM] another way to not go to space today
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [TweakScale][twk]
+* [OScience Laboratories (OSL)][OSL]
+* [Papa Kerballini's Pizza (PIZZA)][PIZZA]
+* [Precise Maneuver (PM)][PM]
+* [Pteron (MSRV)][MSRV]
+* [Shielded PicoPort (SPP)][SPP]
+* [SimpleConstruction! (SCON)][SCON]
+* [SimpleLogistics! (SLOG)][SLOG]
+* [SimpleNotes! (NOTE)][NOTES]
+* [Solar Science (SOL)][SOL]
+* [Stack Inline Lights - Patches (SILP)][SILP]
+* [Stack Inline Lights (SIL)][SIL]
+* [Tweakscale (twk)][twk]
 
 ### Supports
 
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * Either [^3]
-  * [Module Manager][mm]
   * [Module Manager /L][mml]
+  * [Module Manager][mm]
 * Either
   * [Firespitter Core][fs]
   * [Firespitter][fs]
 
 ### Tags
 
-parts, variants, career, crewed, uncrewed
+* career, config, crewed, parts, uncrewed, variants
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -143,14 +147,14 @@ parts, variants, career, crewed, uncrewed
 
 ### Credits and Special Thanks
 
-* [artwhaley][artwhaley] for creating this glorious parts addon!
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* [artwhaley][artwhaley] for creating this glorious addon!
+* see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (2) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (2) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
@@ -158,45 +162,42 @@ parts, variants, career, crewed, uncrewed
 > ***All bundled mods are distributed under their own licenses***  
 > ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
 
-##### see [Notices.md][MOD:notic] for more *legal Mumbo Jumbo*
+##### see [Notices][notic] for more *legal Mumbo Jumbo*
 
 #### Original (1) - Author: [`@artwhaley`][artwhaley]
 
 > Forum: [Thread][MOD:1:thread] - Download: [CurseForge][MOD:1:dnload] - Source: [CurseForge][MOD:1:source]  
 > License: [![License][LIC:1:shd]][LIC:1:url] ![License][LIC:1:log]
 
-#### Original (0) - Author: [`@artwhaley`][artwhaley]
+#### Original (ROOT) (0) - Author: ['artwhaley'][artwhaley]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
----
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
-### DONATIONS
-
-How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
-
-> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
-> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px" alt="cybutek" > cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
-<!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/SimpleCargoSolutions/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/changelog.md  "Changelog"
-[MOD:discu]: https://github.com/zer0Kerbal/SimpleCargoSolutions/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/ "SimpleCargoSolutions Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/SimpleCargoSolutions/issues "Issues"
-[MOD:markt]: https://zer0kerbal.github.io/SimpleCargoSolutions/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/SimpleCargoSolutions/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/SimpleCargoSolutions/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/SimpleCargoSolutions "GitHub Pages"
+
+<!-- links -->
+[attrb]: https://zer0kerbal.github.io/SimpleCargoSolutions/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/changelog.md "Changelog"
+[discu]: https://github.com/zer0Kerbal/SimpleCargoSolutions/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/ "SimpleCargoSolutions Forum Thread"
+[issue]: https://github.com/zer0Kerbal/SimpleCargoSolutions/issues "Issues"
+[markt]: https://zer0kerbal.github.io/SimpleCargoSolutions/Marketing "Marketing Slicks"
+[notic]: https://zer0kerbal.github.io/SimpleCargoSolutions/Notices "Notices"
+[parts]: https://zer0kerbal.github.io/SimpleCargoSolutions/PartsCatalog "Parts Catalog"
+[pages]: https://zer0kerbal.github.io/SimpleCargoSolutions "GitHub Pages"
 
 <!-- mod -->
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/mod.json
+[MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/mod.json
 
-[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[PAGES:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!-- mod provenance -->
 [MOD:1:dnload]: https://www.curseforge.com/kerbal/ksp-mods/simplecargosolutions "CurseForge"
@@ -304,7 +305,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/SimpleCargoSolutions/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/SimpleCargoSolutions/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
 
