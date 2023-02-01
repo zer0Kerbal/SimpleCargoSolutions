@@ -107,7 +107,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [Drop Tank Wrapper (DROP)][DROP]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Inflatable PicoPort (IPP)][IPP]
-* [KaboOom! (BOOM)][BOOM] another way to not go to space today
+* [Kaboom! (BOOM)][BOOM]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OScience Laboratories (OSL)][OSL]
 * [Papa Kerballini's Pizza (PIZZA)][PIZZA]
@@ -181,7 +181,6 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
-
 <!-- links -->
 [attrb]: https://zer0kerbal.github.io/SimpleCargoSolutions/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/changelog.md "Changelog"
