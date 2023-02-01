@@ -87,10 +87,9 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [AxialAerospace Ltd (AA/L)][AAL]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
-
 ### Recommends
 
-* by [Axial Aerospace Ltd (AAL)[AAL]
+* by [Axial Aerospace Ltd (AAL)][AAL]
   * [Dreamer (DREAM)][DREAM]
   * [LanderTek (LTK)][LTEK]
   * [Simple Cargo Solutions (CARGO)][CARGO]
