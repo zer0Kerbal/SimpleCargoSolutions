@@ -92,7 +92,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * by [Axial Aerospace Ltd (AAL)][AAL]
   * [Dreamer (DREAM)][DREAM]
   * [LanderTek (LTK)][LTEK]
-  * [Simple Cargo Solutions (CARGO)][CARGO]
+  * [WhimChaser (WHIM)][WHIM]
 
 ### Suggests
 
