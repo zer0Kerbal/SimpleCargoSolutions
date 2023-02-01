@@ -2,10 +2,8 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- Marketing.md v1.0.1.2
 Simple Cargo Solutions (CARGO)
 created: 13 Apr 2022
@@ -32,10 +30,15 @@ based upon work by LisiasT -->
 
 ### Family Photo
 
-<img src="https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/img/Hero-01.jpg?raw=true" alt="" width="100%" height="100%">
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#table-of-contents)
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-01.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-02.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-03.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-04.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-05.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-06.png" alt="" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/SimpleCargoSolutions/blob/master/docs/Marketing/HERO-07.png" alt="" width="100%" height="100%">
 
 ### Mining Ore
 
