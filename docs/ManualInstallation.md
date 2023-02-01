@@ -4,7 +4,6 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- ManualInstallation.md v1.1.8.1
 Simple Cargo Solutions (CARGO)
 created: 01 Oct 2019
@@ -52,6 +51,16 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [AxialAerospace]
+      + [AxialAeroSpaceLtd]
+        + [Agencies]
+          ...
+        + [Config]
+          ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+        ...
       + [SimpleCargoSolutions]
         + [Compatibility]
           ...
@@ -81,4 +90,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [Axial Aerospace Ltd (AA/L)][AAL]
 
-[AAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "Axial Aerospace Ltd (AA/L)"
+[AAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "Axial Aerospace Ltd (AAL)"

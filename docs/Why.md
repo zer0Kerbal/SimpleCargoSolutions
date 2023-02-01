@@ -2,10 +2,8 @@
 permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- Why.md v1.1.0.0
 Simple Cargo Solutions (CARGO)
 created: 01 Apr 2019
@@ -26,7 +24,6 @@ updated:
 
 **Edited April 1st, 2022 by [zer0Kerbal][zer0Kerbal]**
 
-[godarklight]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "zer0Kerbal"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
